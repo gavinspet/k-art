@@ -21,13 +21,13 @@ const About = () => {
               src="https://res.cloudinary.com/tripleayt/image/upload/v1631555947/products/jpyibarlaxawvcvqjv5b.png"
               alt="Founder"
             />
-            <Typography>Abhishek Singh</Typography>
+            <Typography>Kartick Kumar Ghosh</Typography>
             <Button onClick={visitInstagram} color="primary">
               Visit Instagram
             </Button>
             <span>
-              This is a sample wesbite made by @meabhisingh. Only with the
-              purpose to teach MERN Stack on the channel 6 Pack Programmer
+              THis website is made by Kartick Kumar Ghosh.
+              I am thankful to Swarnendu Mukherjee for his help.
             </span>
           </div>
           <div className="aboutSectionContainer2">
