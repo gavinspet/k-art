@@ -21,9 +21,7 @@ This e-commerce website's main goal is to connect with independent artists and p
 
 ![4](https://user-images.githubusercontent.com/57030232/183394476-8a8c73ca-c7a3-4f92-84d3-d8e99cc9b7fa.png)
 
-![2](https://user-images.githubusercontent.com/57030232/183392382-41452c8e-caaf-4814-9610-f8ecc48003b2.png)
-
-![3](https://user-images.githubusercontent.com/57030232/183392431-c4738ac6-f1cd-430d-b793-f030d140dde8.png)
+![kart screenshots (1)](https://user-images.githubusercontent.com/57030232/183402586-fcba8b12-294d-4bae-b6cd-184745d26860.png)
 
 ![7](https://user-images.githubusercontent.com/57030232/183394552-db6fe47f-77de-4307-8aee-5ec9d8456cae.png)
 
