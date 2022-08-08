@@ -13,13 +13,18 @@ This e-commerce website's main goal is to connect with independent artists and p
 
 # Screenshots
 
+![6](https://user-images.githubusercontent.com/57030232/183392449-284ec9e5-8b7d-4b01-b48d-89869b1a9cd9.png)
+
+![5](https://user-images.githubusercontent.com/57030232/183392442-4a142f96-8b74-4d63-831f-e812f0c96b99.png)
 
 ![1](https://user-images.githubusercontent.com/57030232/183392331-e849cd7b-daac-4cf8-ad8f-7cc77995200c.png)
-![2](https://user-images.githubusercontent.com/57030232/183392382-41452c8e-caaf-4814-9610-f8ecc48003b2.png)
-![3](https://user-images.githubusercontent.com/57030232/183392431-c4738ac6-f1cd-430d-b793-f030d140dde8.png)
+
 ![4](https://user-images.githubusercontent.com/57030232/183392439-2cb1df47-b7d3-42c9-8d01-ec622af92f53.png)
-![5](https://user-images.githubusercontent.com/57030232/183392442-4a142f96-8b74-4d63-831f-e812f0c96b99.png)
-![6](https://user-images.githubusercontent.com/57030232/183392449-284ec9e5-8b7d-4b01-b48d-89869b1a9cd9.png)
+
+![2](https://user-images.githubusercontent.com/57030232/183392382-41452c8e-caaf-4814-9610-f8ecc48003b2.png)
+
+![3](https://user-images.githubusercontent.com/57030232/183392431-c4738ac6-f1cd-430d-b793-f030d140dde8.png)
+
 ![7](https://user-images.githubusercontent.com/57030232/183392453-bcf966b9-fac8-483d-9f06-eef37b9ad9f2.png)
 
 # Install Dependencies
