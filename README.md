@@ -13,7 +13,7 @@ This e-commerce website's main goal is to connect with independent artists and p
 
 # Screenshots
 
-![6](https://user-images.githubusercontent.com/57030232/183392449-284ec9e5-8b7d-4b01-b48d-89869b1a9cd9.png)
+![kart screenshots (2)](https://user-images.githubusercontent.com/57030232/183402707-646e26d3-562a-4a51-bdc2-4b616d4aaa96.png)
 
 ![kart screenshots](https://user-images.githubusercontent.com/57030232/183395153-a56b71c9-3a85-4093-858a-43975067bdec.png)
 
