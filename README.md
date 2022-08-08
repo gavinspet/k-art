@@ -19,13 +19,14 @@ This e-commerce website's main goal is to connect with independent artists and p
 
 ![1](https://user-images.githubusercontent.com/57030232/183392331-e849cd7b-daac-4cf8-ad8f-7cc77995200c.png)
 
-![4](https://user-images.githubusercontent.com/57030232/183392439-2cb1df47-b7d3-42c9-8d01-ec622af92f53.png)
+![4](https://user-images.githubusercontent.com/57030232/183394476-8a8c73ca-c7a3-4f92-84d3-d8e99cc9b7fa.png)
 
 ![2](https://user-images.githubusercontent.com/57030232/183392382-41452c8e-caaf-4814-9610-f8ecc48003b2.png)
 
 ![3](https://user-images.githubusercontent.com/57030232/183392431-c4738ac6-f1cd-430d-b793-f030d140dde8.png)
 
-![7](https://user-images.githubusercontent.com/57030232/183392453-bcf966b9-fac8-483d-9f06-eef37b9ad9f2.png)
+![7](https://user-images.githubusercontent.com/57030232/183394552-db6fe47f-77de-4307-8aee-5ec9d8456cae.png)
+
 
 # Install Dependencies
 
