@@ -1,4 +1,4 @@
-# E-commerce website named "K-art"
+# E-commerce website named "K-Art"
 
 Hi! My name is **Kartick Kumar Ghosh**, I have created this MERN Stack application named **K-art**
 
