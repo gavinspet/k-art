@@ -5,7 +5,7 @@ Hi! My name is **Kartick Kumar Ghosh**, I have created this MERN Stack applicati
 # About this project
 
 Developed a web application using the **MERN stack** for independent artists and creators.
-Customers will be able to purchase goods from independent artists and creators using this web application. Helping independent producers and artists, promoting art, and providing them with a platform where they can get attention, notoriety, and financial compensation are the main objectives.
+Customers will be able to purchase goods from independent artists & creators using this web application. Helping independent producers and artists, promoting art, and providing them with a platform where they can get attention, notoriety, and financial compensation are the main objectives.
 
 # Basic Agenda 
 
